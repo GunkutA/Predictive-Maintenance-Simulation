@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\gagab\Desktop\C++\Simulation\Simulation\src\Main.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gagab\Desktop\C++\Simulation\Simulation\src\Main.cpp(140,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GenerateRandom.cpp
+  RandomNoise.cpp
+  Generating Code...
+RandomNoise.obj : error LNK2019: unresolved external symbol "public: virtual __thiscall TimeSeries::~TimeSeries(void)" (??1TimeSeries@@UAE@XZ) referenced in function __unwindfunclet$??0RandomNoise@@QAE@NH@Z$0
+C:\Users\gagab\Desktop\C++\Simulation\bin\Win32\Debug\Simulation.exe : fatal error LNK1120: 1 unresolved externals
