@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  PowerSimulation.cpp
+C:\Users\gagab\Desktop\C++\Simulation\Simulation\src\PowerSimulation.cpp(11,31): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\gagab\Desktop\C++\Simulation\Simulation\src\PowerSimulation.cpp(19,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\gagab\Desktop\C++\Simulation\Simulation\src\PowerSimulation.cpp(23,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Simulation.vcxproj -> C:\Users\gagab\Desktop\C++\Simulation\bin\x64\Debug\Simulation.exe
